@@ -1,3 +1,4 @@
+#donot edit this code
 # Write your MySQL query statement below
 select e.employee_id ,e.department_id from employee e 
 where e.primary_flag='Y' or e.employee_id 
